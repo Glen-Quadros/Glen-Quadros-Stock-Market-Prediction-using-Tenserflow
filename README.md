@@ -1,4 +1,4 @@
-# Glen-Quadros-Stock-Market-Prediction-using-Tensorflow
+# Stock-Market-Prediction-using-Tensorflow
 
 Stock market prediction using TensorFlow is a technique that involves using machine learning algorithms to analyze historical data and predict future trends in the stock market. Using TensorFlow, I build a complex neural networks that analyzes large amounts of data to make accurate predictions. The model is trained using historical data, and then used to make predictions about future trends in the stock market.
 
